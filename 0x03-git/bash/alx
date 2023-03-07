@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "ALX"
-cd ..
-clear
+echo "ALX School"
+
+
 

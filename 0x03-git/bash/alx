@@ -1,11 +1,5 @@
 #!/bin/bash
-master
-echo "ALX School is so cool!"
-cd ..
-clear
-
 echo "ALX School"
-
 
 
 
